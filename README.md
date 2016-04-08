@@ -1,3 +1,8 @@
+Wiki
+====
+Checkout https://github.com/chaosAD/newlib-nano-1.0/wiki
+
+
 newlib-nano-1.0
 ===============
 
